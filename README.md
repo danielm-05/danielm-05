@@ -1,67 +1,11 @@
-<h1 align="center">Hey 👋</h1>
-<h3 align="center">I build!!! 🚀</h3>
+# 💫 About Me:
+<h1 align="center">Hey 👋</h1><br><h3 align="center">I build!!! 🚀</h3><br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=danielm-05&label=Profile%20Views&color=brightgreen&style=flat" /><br></p><br><br>---<br><br>## ✨ What I Do<br><br>- ⚙️ Design **low-latency data pipelines** processing millions of records<br>- ☁️ Build **cloud-native backend services** with reliability & observability in mind<br>- 🤖 Apply **AI/LLMs** to enrich and classify real-world data<br>- 📊 Turn raw data into **actionable insights**<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 📈 Financial Data Pipeline & Risk Signals<br>**Python · Apache Airflow · Docker · Hugging Face**<br><br>- 🔄 End-to-end ingestion & normalization of financial time-series data<br>- 🧠 AI-driven enrichment, classification & anomaly detection<br>- 🧩 Feature engineering for trend & behavioral risk signals<br>- 🐳 Containerized workflows for reproducible, cloud-ready execution<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 💻 Languages<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br><br>### 📊 Data & AI<br>![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)<br>![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)<br>![ETL](https://img.shields.io/badge/ETL-6A5ACD?style=for-the-badge)<br>![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF69B4?style=for-the-badge)<br><br>### ☁️ Cloud & Big Data<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)<br>![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure)<br>![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)<br><br>### 🧰 Frameworks & Tools<br>![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)<br>![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)<br>![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)<br><br>---<br><br>## 🧠 Currently Exploring<br><br>- 🔍 LLM-powered data enrichment & risk modeling<br>- ⚡ Low-latency & streaming data pipelines<br>- 📈 Observability for large-scale data systems<br><br>---<br><br>⭐ *Code. Data. Scale. Repeat.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danielm-05&label=Profile%20Views&color=brightgreen&style=flat" />
-</p>
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=danielm-05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=danielm-05&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielm-05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ✨ What I Do
-
-- ⚙️ Design **low-latency data pipelines** processing millions of records
-- ☁️ Build **cloud-native backend services** with reliability & observability in mind
-- 🤖 Apply **AI/LLMs** to enrich and classify real-world data
-- 📊 Turn raw data into **actionable insights**
-
----
-
-## 🚀 Featured Projects
-
-### 📈 Financial Data Pipeline & Risk Signals
-**Python · Apache Airflow · Docker · Hugging Face**
-
-- 🔄 End-to-end ingestion & normalization of financial time-series data
-- 🧠 AI-driven enrichment, classification & anomaly detection
-- 🧩 Feature engineering for trend & behavioral risk signals
-- 🐳 Containerized workflows for reproducible, cloud-ready execution
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 📊 Data & AI
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL-6A5ACD?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF69B4?style=for-the-badge)
-
-### ☁️ Cloud & Big Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-### 🧰 Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-
----
-
-## 🧠 Currently Exploring
-
-- 🔍 LLM-powered data enrichment & risk modeling
-- ⚡ Low-latency & streaming data pipelines
-- 📈 Observability for large-scale data systems
-
----
-
-⭐ *Code. Data. Scale. Repeat.*
