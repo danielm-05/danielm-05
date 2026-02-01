@@ -64,13 +64,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielm-05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielm-05&theme=tokyonight" />
-</p>
-
----
-
 ⭐ *Code. Data. Scale. Repeat.*
